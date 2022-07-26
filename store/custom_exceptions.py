@@ -1,0 +1,2 @@
+class ItemDoesNotExistException(Exception):
+    pass
